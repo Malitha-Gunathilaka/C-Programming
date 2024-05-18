@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main()
+
+{
+float Distance;
+float X;
+
+
+printf("Enter the distance in inches:");
+scanf("%f",Distance);
+
+X = Distance * 2.54;
+
+printf("Distance %f inches is = " );
+return ();
+}
