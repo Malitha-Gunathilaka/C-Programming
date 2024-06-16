@@ -1,9 +1,4 @@
-/**************************
-Author: Sachintha Pitigala
-Purpose: Strings Library Functions - String copy function
-Create Date: 27/11/2022
-Modified Date: 27/11/2022
-***************************/
+
 
 #include <stdio.h>
 #include <string.h>
